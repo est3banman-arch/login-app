@@ -3,7 +3,7 @@ import pandas as pd
 
 
 
-st.header("EIAROB WEB LOGIN", divider="rainbow")
+st.header("EIAROB WEB LOGIN", divider="rainbow", text_alignment="center")
 
 #st.menu_button("menu", "hola", type="primary")
 
