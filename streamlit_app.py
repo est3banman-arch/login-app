@@ -8,11 +8,11 @@ st.header("EIAROB WEB LOGIN", divider="rainbow")
 #st.menu_button("menu", "hola", type="primary")
 
 # 1. Entrada de usuario
-nombre = st.text_input("Usuario", placeholder="Usuario")
+nombre = st.text_input("👤 Usuario", placeholder="Usuario")
 correcto = False
 
 
-contrasenia = st.text_input("Contraseña", placeholder="Contraseña", type="password") 
+contrasenia = st.text_input("🔎︎ Contraseña", placeholder="Contraseña", type="password") 
 contrasenia2 = st.text_input("Repite contraseña", placeholder="Contraseña", type="password")
  
 if contrasenia2 and contrasenia: 
