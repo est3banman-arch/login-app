@@ -3,7 +3,11 @@ import pandas as pd
 
 st.markdown("""
 <style>
-            
+
+.stApp {
+        margin-top: -4rem;
+}
+     
 .st-key-nombre [data-testid="stMarkdownContainer"] p {
     font-size: 30px; 
 }
